@@ -48,11 +48,14 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible"
                 className="my-2 max-w-xl py-6 font-light tracking-tighter">
-                <ul className="listIconInfo">
-                  <li className="li_icon"><img className="imgiconinfo" src={javascript}></img><h3 className="title_icon">Github</h3></li>
-                  <li className="li_icon"><img className="imgiconinfo" src={linkedln}></img><h3 className="title_icon">Linkedln</h3></li>
-                  <li className="li_icon"><img className="imgiconinfo" src={facebook}></img><h3 className="title_icon">Facebook</h3></li>
-                </ul>
+                
+                  <ul className="listIconInfo">
+                    <li className="li_icon"><img className="imgiconinfo" src={javascript}></img><h3 className="title_icon">Github</h3></li>
+                    <li className="li_icon"><img className="imgiconinfo" src={linkedln}></img><h3 className="title_icon">Linkedln</h3></li>
+                    <li className="li_icon"><img className="imgiconinfo" src={facebook}></img><h3 className="title_icon">Facebook</h3></li>
+                  </ul>
+               
+
               </motion.p>
               <button className="BTNCV">Download CV</button>
             </div>
@@ -71,7 +74,7 @@ const Hero = () => {
                     initial={{ x: 100, opacity: 0 }}
                     animate={{ x: 0, opacity: 1 }}
                     transition={{ duration: 1, delay: 1.2 }}
-                    
+
                     src={profilepic3} alt="Tien Dung"></motion.img>
 
                 </SwiperSlide>
@@ -81,7 +84,7 @@ const Hero = () => {
                     initial={{ x: 100, opacity: 0 }}
                     animate={{ x: 0, opacity: 1 }}
                     transition={{ duration: 1, delay: 1.2 }}
-                  
+
                     src={profilepic2} alt="Tien Dung"></motion.img>
 
                 </SwiperSlide>
@@ -91,7 +94,7 @@ const Hero = () => {
                     initial={{ x: 100, opacity: 0 }}
                     animate={{ x: 0, opacity: 1 }}
                     transition={{ duration: 1, delay: 1.2 }}
-                   
+
                     src={profilePic} alt="Tien Dung"></motion.img>
 
                 </SwiperSlide>
