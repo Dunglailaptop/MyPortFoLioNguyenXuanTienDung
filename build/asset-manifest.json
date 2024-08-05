@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MyPortFoLioNguyenXuanTienDung/static/css/main.20ba5f84.css",
+    "main.js": "/MyPortFoLioNguyenXuanTienDung/static/js/main.c885f6d7.js",
+    "static/media/NguyenXuanTien_2.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/NguyenXuanTien_2.36654961b867c8b4d737.jpg",
+    "static/media/github3d.png": "/MyPortFoLioNguyenXuanTienDung/static/media/github3d.97aee1cf96856d7e4246.png",
+    "static/media/NguyenXuanTienDung-1719929305636.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/NguyenXuanTienDung-1719929305636.cda96113efd303cded2e.jpg",
+    "static/media/NguyenXuanTien_4.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/NguyenXuanTien_4.e4f6501b822b509eef44.jpg",
+    "static/media/project-3.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/project-3.d40ef9bdb47609537921.jpg",
+    "static/media/project-2.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/project-2.1163c0a4ffbe03d987cf.jpg",
+    "static/media/rxswift.png": "/MyPortFoLioNguyenXuanTienDung/static/media/rxswift.ea7494129c3a9c8b7c2c.png",
+    "static/media/project-1.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/project-1.3d0152105bd6b879e610.jpg",
+    "static/media/project-4.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/project-4.cee9d1175731475a650f.jpg",
+    "static/media/NguyenXuanTien_3.jpg": "/MyPortFoLioNguyenXuanTienDung/static/media/NguyenXuanTien_3.a204132ae7648844ed32.jpg",
+    "static/media/c-sharp.png": "/MyPortFoLioNguyenXuanTienDung/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/netbeans.png": "/MyPortFoLioNguyenXuanTienDung/static/media/netbeans.8a331de85a770dacb807.png",
+    "static/media/swift1.png": "/MyPortFoLioNguyenXuanTienDung/static/media/swift1.6b8a2d05a51a52c8ab9b.png",
+    "static/media/postgresql.png": "/MyPortFoLioNguyenXuanTienDung/static/media/postgresql.543d2f68d70043ec73ee.png",
+    "static/media/springboots.png": "/MyPortFoLioNguyenXuanTienDung/static/media/springboots.953ee24309fa38748981.png",
+    "static/media/java.png": "/MyPortFoLioNguyenXuanTienDung/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/VisualCom.png": "/MyPortFoLioNguyenXuanTienDung/static/media/VisualCom.a6b73c6edd0cf8587537.png",
+    "static/media/VisualCode.png": "/MyPortFoLioNguyenXuanTienDung/static/media/VisualCode.3cf87a7da79114d71801.png",
+    "static/media/boostraps.png": "/MyPortFoLioNguyenXuanTienDung/static/media/boostraps.602d194d2e51dd737c29.png",
+    "static/media/facebook.png": "/MyPortFoLioNguyenXuanTienDung/static/media/facebook.fe1be8e65562ca94d8a9.png",
+    "index.html": "/MyPortFoLioNguyenXuanTienDung/index.html",
+    "main.20ba5f84.css.map": "/MyPortFoLioNguyenXuanTienDung/static/css/main.20ba5f84.css.map",
+    "main.c885f6d7.js.map": "/MyPortFoLioNguyenXuanTienDung/static/js/main.c885f6d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ba5f84.css",
+    "static/js/main.c885f6d7.js"
+  ]
+}
