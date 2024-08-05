@@ -1,0 +1,55 @@
+/* .ImageUser {
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 10px;
+}
+ */
+
+
+ .swiper {
+   width: 350px;
+   height: 450px;
+ }
+ 
+ .swiper-slide {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 18px;
+   font-size: 22px;
+   font-weight: bold;
+   color: #fff;
+ }
+ 
+ .listIconInfo{
+  display: flex;
+  
+ }
+
+ .title_icon {
+  padding: 10px;
+ }
+
+ .imgiconinfo{
+    width: 40px;
+    margin: 5px;
+ }
+ 
+ .li_icon {
+  display: flex;
+  align-items: center;
+  border: 1px solid blueviolet;
+  margin: 10px;
+  border-radius: 20px;
+ }
+
+ .li_icon:hover {
+  background-color: blueviolet;
+ }
+
+ .BTNCV {
+  border-radius: 5px;
+  background-color: blueviolet;
+  padding: 10px;
+  margin: 10px;
+ }

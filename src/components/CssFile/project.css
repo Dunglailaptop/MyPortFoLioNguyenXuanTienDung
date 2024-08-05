@@ -1,0 +1,19 @@
+.ListTitleProject_container {
+    display: flex;
+    justify-content: center;
+}
+
+.li_btn {
+    padding: 5px;
+}
+
+.btn_title {
+   
+    padding: 10px;
+    border-radius: 17px;
+    border: 1px solid blueviolet;
+}
+
+.btn_title:hover {
+    background-color: blueviolet;
+}

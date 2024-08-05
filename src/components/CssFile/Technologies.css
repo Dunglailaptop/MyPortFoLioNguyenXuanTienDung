@@ -1,0 +1,67 @@
+.title_tech{
+    margin: 15px;
+    font-size: 25px;
+    color: darkorchid;
+    display: flex;
+    justify-content: center;
+}
+
+.title_skills{
+    display: flex;
+    justify-content: center;
+}
+
+.List_Skill {
+    display: flex;
+    justify-content: space-around;
+}
+
+.list {
+    display: grid;
+}
+
+.imgedit {
+    background-color: white;
+  padding: 10px;
+}
+
+.roundOfImage{
+    display: flex;
+    justify-content: center;
+}
+
+/* Khi màn hình từ 600px trở lên (mobile) */
+@media (max-width: 599px) {
+    .List_Skill {
+        
+      display: grid;
+      justify-content: center;
+    }
+   
+  }
+  
+  /* Khi màn hình từ 768px trở lên (tablet lớn hơn hoặc laptop nhỏ) */
+  @media (min-width: 600px) and (max-width: 1023px) {
+    .List_Skill {
+        
+        display: grid;
+        justify-content: center;
+      }
+      .list {
+          display: flex;
+          justify-content: center;
+      }
+  }
+  
+  /* Khi màn hình từ 1024px trở lên (laptop) */
+  @media (min-width: 1024px) {
+    .List_Skill {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .list {
+        display: grid;
+    }
+    
+  }
